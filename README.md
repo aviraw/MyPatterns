@@ -16,5 +16,5 @@ Make sure to add your details in [Hacktoberfest File](https://github.com/aviraw/
 
 ##
 #hacktoberfest
-#hacktoberfest2022
+#hacktoberfest2023
 #opensourcecommunity
