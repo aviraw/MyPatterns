@@ -21,3 +21,5 @@ Contributors of MyPatterns for hacktoberfest.
 |17.|pascal_triangle.py|https://github.com/TrlRizu|
 |18.| Tables in a triangle pattern |https://github.com/rohanprichard|
 |19.|Obtuse_triangle.cpp|https://github.com/deep-sekhar|
+|20.|character_pattern.py|https://github.com/DigamGupta|
+
