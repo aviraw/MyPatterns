@@ -9,7 +9,7 @@ All pattern printing codes. Any Language.
 
 Don't Write Spammy Code. Else We Won't Merge.
 
-Register for HACKTOBERFEST 2022 [here](https://hacktoberfest.com).
+Register for HACKTOBERFEST [here](https://hacktoberfest.com).
 
 Read [Contributing.md](https://github.com/aviraw/MyPatterns/blob/main/CONTRIBUTING.md)
 Make sure to add your details in [Hacktoberfest File](https://github.com/aviraw/MyPatterns/blob/main/Hacktoberfest.md)
