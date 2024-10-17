@@ -22,4 +22,6 @@ Contributors of MyPatterns for hacktoberfest.
 |18.| Tables in a triangle pattern |https://github.com/rohanprichard|
 |19.|Obtuse_triangle.cpp|https://github.com/deep-sekhar|
 |20.|character_pattern.py|https://github.com/DigamGupta|
+<br>
+|21.|Butterfly Pattern|https://github.com/Student-PrangyaParamita/Patterns-in-Java|
 
