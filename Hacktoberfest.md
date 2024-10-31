@@ -24,4 +24,5 @@ Contributors of MyPatterns for hacktoberfest.
 |20.|character_pattern.py|https://github.com/DigamGupta|
 |21.|hollow_and_solid_circle_pattern|https://github.com/Saiharitha3|
 |22.|Butterfly Pattern|https://github.com/Student-PrangyaParamita/Patterns-in-Java|
+|24.|All triangle pattern|https://github.com/Student-PrangyaParamita/InnerI_Mad_Triangles.java|
 
