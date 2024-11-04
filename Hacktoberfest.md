@@ -24,7 +24,8 @@ Contributors of MyPatterns for hacktoberfest.
 |20.|character_pattern.py|https://github.com/DigamGupta|
 |21.|hollow_and_solid_circle_pattern|https://github.com/Saiharitha3|
 |22.|Butterfly Pattern|https://github.com/Student-PrangyaParamita/Patterns-in-Java|
-|23.|All triangle pattern|https://github.com/Student-PrangyaParamita/InnerI_Mad_Triangles.java|
-|24.|Spial Matrix using java|https://github.com/Student-PrangyaParamita/Spiral-Matrix.java|
-|25.|Perfect Square Pattern|https://github.com/nau-oss/KSVeerendernath|
+|23.|Zig-Zig Pattern|https://github.com/nidhi8404|
+|24.|All triangle pattern|https://github.com/Student-PrangyaParamita/InnerI_Mad_Triangles.java|
+|25.|Spial Matrix using java|https://github.com/Student-PrangyaParamita/Spiral-Matrix.java|
+|26.|Perfect Square Pattern|https://github.com/nau-oss/KSVeerendernath|
 
